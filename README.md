@@ -5,6 +5,5 @@ Este repositorio esta sendo usado para pratica de git github
 - praticando git add e git commit
 - praticando git diff
 - praticando conceitos de merge
-- Nova linha ao fim do arquivo
-
->>>>>>> 6d6dde5a51f317e999585e89039bd8083edfa5c1
+- Praticando git reverse
+- 
